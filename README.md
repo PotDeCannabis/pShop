@@ -5,7 +5,7 @@
 #### How to start this resource ?
    - Add this line to server.cfg `ensure pShop`
 
-Preview: https://youtu.be/4JvrVv4T1cM
+Preview: https://youtu.be/9Nmnbs0h7K8
 
 __English:__
    - Configure the script easily!
